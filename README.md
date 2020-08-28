@@ -1,2 +1,2 @@
-# LeetCode
+# MyLeetCode Python
 My LeetCode progress
